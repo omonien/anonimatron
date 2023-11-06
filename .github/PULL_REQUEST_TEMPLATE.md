@@ -1,3 +1,0 @@
-Implementation of solution for [issue XXX](https://github.com/realrolfje/anonimatron/issues/XXX)
-
-... additional info which helps reviewing this request ...
